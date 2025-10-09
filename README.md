@@ -33,11 +33,10 @@
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Typescript" height="25" src="images/flask.png"></code>
+  <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
@@ -51,11 +50,12 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Go" height="25" src="images/php.svg"></code>
-  <code><img title="Linux" height="25" src="images/flask.png"></code>
-  <code><img title="Bash" height="25" src="images/flask.png"></code>
-  <code><img title="Firebase" height="25" src="images/flask.png"></code>
-  <code><img title="Google Cloud" height="25" src="images/flask.png"></code>
+  <code><img title="Go" height="25" src="images/go.png"></code>
+  <code><img title="Linux" height="25" src="images/linux.png"></code>
+  <code><img title="Bash" height="25" src="images/bash.png"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
+  <code><img title="Google Cloud" height="25" src="images/cloud.png"></code>
+  <code><img title="Google AI Studio" height="25" src="images/aı-studio.png"></code>
 </p>
 <hr>
 
