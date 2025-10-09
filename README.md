@@ -87,7 +87,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ysf-asan/ip_query" title="IP Query"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=ip_query&theme=react&border_color=F70000b&border_radius=10"></a>
-  <a align="right" href="https://github.com/ysf-asan/Suspect-File" title="Suspect File"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=Suspect-File&theme=react&border_color=F70000&border_radius=10"></a>
+  <a align="right" href="https://github.com/ysf-asan/Suspect-File" title="Suspect File"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=Suspect-File&theme=react&border_color=F70000&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
