@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysf-asan.ysf-asan">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=This+is+Yusuf+ASAN;Let+Him+Cook!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=This+is+Yusuf+ASAN;Let+Him+Cook!" alt="Yusuf ASAN" /></a>
 </h1>
 
 <h5 align="center">
@@ -63,7 +63,7 @@
   <div align=center>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ysf-asan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="ysf-asan" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ysf-asan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ysf-asan&show_icons=true&theme=react&border_color=F70000&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
