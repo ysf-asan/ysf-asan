@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://yusufasan.com" title="My website"><img width="22" src="images/stackoverflow.svg"> Yusuf ASAN</a></code>
+  <code><a href="https://yusufasan.com" title="My website"><img width="22" src="images/ya.png"> Yusuf ASAN</a></code>
   <code><a href="https://www.linkedin.com/in/yusuf-asan-046162254/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://medium.com/@yusufasan" title="Medium Profile"><img width="22" src="images/hackerrank.png"> Medium</a></code>
+  <code><a href="https://medium.com/@yusufasan" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
   <code><a href="https://www.instagram.com/ysfasan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
