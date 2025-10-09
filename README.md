@@ -61,7 +61,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ysfasan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ysf-asan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=390&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="ysf-asan" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ysf-asan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
