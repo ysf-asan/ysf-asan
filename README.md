@@ -91,7 +91,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ysf-asan/Student_Info_System" title="Student Info System"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=Student_Info_System&theme=react&border_color=F70000&border_radius=10"></a>
+  <a align="left" href="https://github.com/ysf-asan/GoldenRatio" title="Golden Ratio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=GoldenRatio&theme=react&border_color=F70000&border_radius=10"></a>
   <a align="right" href="https://github.com/ysf-asan/ethical-hacking" title="Ethical Hacking Tools"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ysf-asan&repo=ethical-hacking&theme=react&border_color=F70000&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
