@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Yusuf ASAN, VibeCoder & WebDev & MobileDev & Security AI & Cloud & Prompt Engineer from Turkey
+  Hi, I'm Yusuf ASAN, FinTech & WebDev & Backend & IT/Network from Turkey
   <br>
   <br>
   🔬 I'm currently student at Istanbul University - Cerrahpasa Computer Engineering
