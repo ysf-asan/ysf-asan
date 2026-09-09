@@ -19,7 +19,7 @@
   <br>
   🎓 I graduated from Bursa Erkek Lisesi
   <br>
-  💻 I love vibe coding / writing code and learn anythings about it
+  💻 I love coding and learn anythings about it
   <br>
   📚 I’m currently learning how to build an AI agent for fixing special system vulnerabilities
   <br>
