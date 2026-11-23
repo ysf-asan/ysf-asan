@@ -5,7 +5,6 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://yusufasan.com" title="My website"><img width="22" src="images/ya.png"> Yusuf ASAN</a></code>
   <code><a href="https://www.linkedin.com/in/yusuf-asan-046162254/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://medium.com/@yusufasan" title="Medium Profile"><img width="22" src="images/medium.png"> Medium</a></code>
   <code><a href="https://www.instagram.com/ysfasan/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
@@ -17,11 +16,9 @@
   <br>
   🔬 I'm currently student at Istanbul University - Cerrahpasa Computer Engineering
   <br>
-  🎓 I graduated from Bursa Erkek Lisesi
+  💻 Research paper and article reader/writer. 
   <br>
-  💻 I love coding and learn anythings about it
-  <br>
-  📚 I’m currently learning how to build an AI agent for fixing special system vulnerabilities
+  📚 I’m currently working on Tübitak BİGG and 2209 projects. AI Security project owner, manager and creator
   <br>
   📫 How to reach me: <a href="mailto: ysfasan04@gmail.com">ysfasan04@gmail.com</a>
 </p>
